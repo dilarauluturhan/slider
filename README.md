@@ -12,7 +12,7 @@ I aimed to make a picture slider in this project. I updated the current page num
 In this project, I used Pure CSS for the design.
 
 ## Built With
-I created this project using the React and React Icons.
+I created this project using the React.js and React Icons.
 
 ## Contact With
 Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
